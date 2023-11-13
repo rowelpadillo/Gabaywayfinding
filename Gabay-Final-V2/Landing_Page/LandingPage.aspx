@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse flex-row-reverse" id="navbarNavAltMarkup">
                 <div class="navbar-nav text-center">
                     <a class="nav-link" href="#homeSection">Home</a>
-                    <a class="nav-link" href="#services">Features</a>
+                    <a class="nav-link" href="#services">Features1</a>
                     <a class="nav-link" href="#aboutUS">About us</a>
                     <button class="btn bg-primary" data-toggle="modal" data-target="#loginSelection">Get Started</button>
                 </div>
