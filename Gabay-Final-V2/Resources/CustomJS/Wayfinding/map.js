@@ -42716,7 +42716,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }, 66500);
             setTimeout(function () {
                 hideMaps(), hideRoute()
-                msg.text = "then turn left,.. and go straight pass room cbe 904,.. to room cbe 905";
+                msg.text = "then turn left,.. and go straight pass room cbe 904,.. to Allied Engineering Department";
                 window.speechSynthesis.speak(msg);
                 map37.style.display = 'block';
                 showRoute(rtcbe905, cbebtn, rtg2toold, nsabtn);
@@ -42821,7 +42821,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }, 66500);
             setTimeout(function () {
                 hideMaps(), hideRoute()
-                msg.text = "then turn left,.. and go straight pass room cbe 905,.. to room cbe 906";
+                msg.text = "then turn left,.. and go straight pass Allied Engineering Department,.. to room cbe 906";
                 window.speechSynthesis.speak(msg);
                 map37.style.display = 'block';
                 showRoute(rtcbe906, cbebtn, rtg2toold, nsabtn);
@@ -44156,7 +44156,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }, 60500);
             setTimeout(function () {
                 hideMaps(), hideRoute()
-                msg.text = "then turn left,.. and go straight pass room cbe 904,.. to room cbe 905";
+                msg.text = "then turn left,.. and go straight pass room cbe 904,.. to Allied Engineering Department";
                 window.speechSynthesis.speak(msg);
                 map37.style.display = 'block';
                 showRoute(rtcbe905, cbebtn, rtg2toold, nsabtn);
@@ -44254,7 +44254,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }, 60500);
             setTimeout(function () {
                 hideMaps(), hideRoute()
-                msg.text = "then turn left,.. and go straight pass room cbe 905,.. to room cbe 906";
+                msg.text = "then turn left,.. and go straight pass Allied Engineering Department,.. to room cbe 906";
                 window.speechSynthesis.speak(msg);
                 map37.style.display = 'block';
                 showRoute(rtcbe906, cbebtn, rtg2toold, nsabtn);
